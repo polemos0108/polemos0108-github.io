@@ -8,7 +8,7 @@ $(function () {
   var LINE_INTENSITY = 12 / SCALE_COEFFICIENT;
   var GRAPH_WIDTH = 30 * SCALE_COEFFICIENT;
   var GRAPH_HEIGHT = 30 * SCALE_COEFFICIENT;
-  var IMAGE_SOURCE = 'img/whoa-eye-vibrant-600-600.jpg';
+  var IMAGE_SOURCE = 'img/400x400-dog.jpg';
 
 
   var numLinesDrawn = 1;
